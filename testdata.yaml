@@ -1,0 +1,9 @@
+address: https://test-stand.gb.ru
+sleep_time: 1
+browser: firefox
+username: Nikolai123
+password: Nikolai123
+bad_login: qwert
+name: Honyakov Dmitry
+email: Logan6338@mail.ru
+content: Test text
